@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[How-to.ng](https://how-to.ng)
+[Fungifting.com](https://fungifting.com)
+[Doubled](https://doubled.ng)
